@@ -1,7 +1,7 @@
 ### Usage
 
 ```
-$ gem install cfhiglander --prerelease  
+$ gem install cfhighlander --prerelease  
 $ cfhighlander cfcompile --validate outer
 ```
 
